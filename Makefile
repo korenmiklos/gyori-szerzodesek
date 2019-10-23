@@ -3,6 +3,7 @@ DOCUMENTS = $(shell echo raw/doc/*)
 WORD = $(shell echo raw/doc/*.doc)
 
 all_documents: $(foreach document, $(DOCUMENTS), output/$(notdir $(document)).txt)
+csv: $(foreach document, $(WORD), output/$(basename $(notdir $(document))).csv)
 docx: $(foreach document, $(WORD), temp/docx/$(basename $(notdir $(document))).docx)
 pages: $(foreach page, $(PAGES), raw/html/$(page)-oldal.html)
 raw/html/%-oldal.html: 
@@ -34,3 +35,5 @@ output/%.txt: raw/doc/%
 	else \
 		pdftotext $< | iconv -f iso-8859-2 -t utf-8 > $@; \
 	fi	
+output/%.csv: temp/docx/%.docx
+	python extract_table.py $< > $@
