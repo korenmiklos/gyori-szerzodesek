@@ -11,3 +11,10 @@ pagelist.txt: raw/html/*-oldal.html
 	for file in raw/html/*-oldal.html; do \
 		grep "article_preliminary" $$file | grep -orh 'cikk/.*szerz.*\.html' | awk '{print "http://onkormanyzat.gyor.hu/"$$0}' >> $@ ; \
 	done
+documents.txt: raw/html/*szerz*.html
+	rm $@ || true
+	touch $@
+	for file in raw/html/*szerz*.html; do \
+		tail -n +550 $$file | head -n +233 | grep "getAttachement" | grep -ohE '\"http.*?\"' | sed 's/"//g' >> $@ || true ; \
+		tail -n +550 $$file | head -n +233 | grep "data/files" | grep -ohE '\"http.*?\"' | sed 's/"//g' >> $@ || true ; \
+	done
