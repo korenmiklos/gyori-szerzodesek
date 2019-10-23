@@ -1,6 +1,6 @@
 PAGES = $(shell seq 1 128)
 DOCUMENTS = $(shell echo raw/doc/*)
-WORD = $(shell echo raw/doc/*.doc)
+WORD = $(shell echo raw/doc/*.doc?)
 
 all_documents: $(foreach document, $(DOCUMENTS), output/$(notdir $(document)).txt)
 csv: $(foreach document, $(WORD), output/$(basename $(notdir $(document))).csv)
@@ -29,6 +29,8 @@ documents.txt: raw/html/*szerz*.html
 	done
 temp/docx/%.docx: raw/doc/%.doc
 	 soffice --convert-to docx --outdir temp/docx $< 
+temp/docx/%.docx: raw/doc/%.docx
+	 cp $< $@ 
 output/%.txt: raw/doc/%
 	if [ '$(suffix $<)' = '.doc' ] ; then \
 		antiword -m 8859-2.txt $< | iconv -f iso-8859-2 -t utf-8 > $@; \
