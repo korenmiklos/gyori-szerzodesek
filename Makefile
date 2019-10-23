@@ -37,5 +37,5 @@ output/%.txt: raw/doc/%
 	else \
 		pdftotext $< | iconv -f iso-8859-2 -t utf-8 > $@; \
 	fi	
-output/all.csv: raw/doc/*.doc*
+output/all.csv: raw/doc/*.doc* extract_table.py
 	python extract_table.py > $@

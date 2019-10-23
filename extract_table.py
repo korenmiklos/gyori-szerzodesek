@@ -43,6 +43,17 @@ def get_row(row):
         line.append(' '.join([item.text for item in cell.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}t')]))
     return line
 
+def find_header(iterator, min_length=3):
+    # Find first row with at least min_length elements
+    header = []
+    while len(header) < min_length:
+        try:
+            header = get_row(next(iterator))
+        except:
+            break
+    return header
+    
+
 def dumpfile(fname, output):
     try:
         url = URLS[os.path.basename(fname)]
@@ -54,9 +65,10 @@ def dumpfile(fname, output):
 
     document = etree.XML(ZipFile(path).open('word/document.xml').read())
     rows = document.iter('{http://schemas.openxmlformats.org/wordprocessingml/2006/main}tr')
-    header = get_row(next(rows))
-    for row in rows:
-        output.writerow(row_to_dictionary(header, get_row(row), url))
+    header = find_header(rows)
+    if header:
+        for row in rows:
+            output.writerow(row_to_dictionary(header, get_row(row), url))
 
 if __name__ == '__main__':
     output = csv.DictWriter(sys.stdout, fieldnames=['url']+list(KEYS))
