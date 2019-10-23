@@ -1,0 +1,137 @@
+
+
+
+
+            TÁJÉKOZTATÓ  A  GYŐR MEGYEI JOGÚ VÁROS  ÖNKORMÁNYZATA
+
+                   Kazinczy Ferenc Gimnázium és Kollégium
+
+                         ÁLTAL KÖTÖTT SZERZŐDÉSEKRŐL
+
+
+
+    ( az Áht. 15/B. §-a, valamint a költségvetési rendelet 23.§ (3) bek.
+                                  alapján )
+
+
+
+
+|                      |                   |                |            |
+|A szerződés           |A szerződő fél     |A szerződés     |A szerződés |
+|megnevezése,          |megnevezése        |értéke          |időtartama  |
+|típusa, tárgya        |                   |                |            |
+|Szállítási szerződés  |BUDMÁRK KFT        |6.198.949,-     |2006.09.01- |
+|élelmiszer            |                   |                |2007.12.31  |
+|                      |FUNKCIÓ KFT        |13.721.360,-    |2006.09.01-2|
+|Szállítási szerződés  |                   |                |007.12.31.  |
+|élelmiszer            |                   |                |            |
+|Szállítási szerződés  |COOP GYŐR Ker.Zrt  |603.750,-       |2006.09.01-2|
+|élelmiszer            |                   |                |007.12.31.  |
+|                      |Katona József      |1.711.050,-     |2006.09.01-2|
+|Szállítási szerződés  |vállalkozó         |                |007.12.31.  |
+|élelmiszer            |                   |                |            |
+|Szállítási szerződés  |Czakó István       |5.418.900,-     |2006.09.01-2|
+|élelmiszer            |vállalkozó         |                |007.12.31.  |
+|Szállítási szerződés  |HO-MI Kft          |4.736.685,-     |2006.09.01-2|
+|élelmiszer            |                   |                |007.12.31.  |
+|Szállítási szerződés  |Lővér Sütő Zrt     |1.978.000,-     |2006.09.01-2|
+|élelmiszer            |                   |                |007.12.31.  |
+|Szolgáltatási         |Győri Kommunális   |12.705.360,-    |2007.01.01-2|
+|szerződés             |Szolgáltató Kft    |                |007.12.31.  |
+|takarítás             |                   |                |            |
+|Szolgáltatási         |ROTOX Kártevő      |3,20/M3+áfa     |2003.07.02-v|
+|szerződés             |Mentesítő Kft      |                |isszavonásig|
+|Kártevő mentesítés    |                   |                |            |
+|Szolgáltatási         |KONKOORD KFT       |3.500,-Ft/doboz+|2002.07.03-h|
+|szerződés             |                   |áfa             |atározatlan |
+|Irodai veszélyes      |                   |                |            |
+|hulladék száll.       |                   |                |            |
+|Szolgáltatási         |BIOKOMPLEX         |Alapár:13Ft/kg  |2004.01.01-h|
+|szerződés             |Környezetvédelmi   |10% felett      |atározatlan |
+|Folyékony veszélyes   |Kft                |7Ft/kg          |            |
+|hull.                 |                   |                |            |
+|                      |                   |                |            |
+|Szolgáltatási         |COMP-SYS Kft       |4.000,-Ft/hó+áfa|2001.08.01-v|
+|szerződés             |                   |                |isszavonásig|
+|Étk.program           |                   |                |            |
+|felügyelete           |                   |                |            |
+|Szolgáltatási         |VIDANET            |4.302,-Ft/hó    |1998.04.29-h|
+|szerződés             |                   |                |atározatlan |
+|Kábel tv              |                   |                |            |
+|Szolgáltatási         |Group 4 Securicor  |10.494,-Ft/hó   |2001.01.01-h|
+|szerződés             |                   |                |atározatlan |
+|vagyonvédelem         |                   |                |            |
+|Szolgáltatási         |ÉDRM Regionális    |125,-Ft/kg      |2007.03.01-h|
+|szerződés             |Mosoda             |                |atározatlan |
+|mosás                 |                   |                |            |
+|Vállalkozási szerződés|Győri Zoltán       |10.000,-Ft/hó   |2006.09.01-v|
+|                      |                   |                |isszavonásig|
+|Tűz-, és munkavédelmi |                   |                |            |
+|szaktevékenység       |                   |                |            |
+|Szállítási szerződés  |BIOFILTER          |3.000,-Ft+áfa/gy|2003.02.25-v|
+|Konyhai zsiradék      |Környezetvédelmi   |űjtőedény       |isszavonásig|
+|                      |KFT                |                |            |
+|Bérleti szerződés     |Keleti István      |900,-Ft/óra     |2003.09.01-2|
+|terembérlet           |Alapfokú           |                |008.06.30.  |
+|                      |Művészetoktatási   |                |            |
+|                      |Iskola és Művészeti|                |            |
+|                      |Szakközépiskola    |                |            |
+|                      |Budapest           |                |            |
+|Bérleti szerződés     |GRIFF Humán        |1.200,-Ft/óra   |2007.10.01-2|
+|terembérlet           |Vállalkozásfejleszt|                |008.07.15.  |
+|                      |ő Kft              |                |            |
+|                      |Nagykanizsa        |                |            |
+|Bérleti szerződés     |ELENDEM INSTRUKTOR |1.200,-Ft/óra   |2007.09.11-2|
+|terembérlet           |Oktató és          |                |007.11..24. |
+|                      |Szolgáltató Kft    |                |            |
+|Bérleti szerződés     |Pannon Kincstár    |1.200,-Ft/óra   |2007.11.10-2|
+|terembérlet           |Tanoda Gimnázium és|                |008.10.31.  |
+|                      |Szakképző Iskola   |                |            |
+|                      |Komárom            |                |            |
+|Bérleti szerződés     |MINERVA 90         |1.200,-Ft/óra   |2007.10.05-2|
+|terembérlet           |Felsőoktatási és   |                |007.12.31.  |
+|                      |Tanfolyamszervező  |                |            |
+|                      |Kft                |                |            |
+|Bérleti szerződés     |ALFA KAPOS Képző   |1.500,-Ft/óra   |2007.09.21-2|
+|terembérlet           |Központ Kft        |                |008.03.31.  |
+|                      |Kaposvár           |                |            |
+|Bérleti szerződés     |ALFA KAPOS Képző   |1.200,-Ft/óra   |2007.09.22-2|
+|terembérlet           |Központ Kft        |                |008.01.31.  |
+|                      |Kaposvár           |                |            |
+|Bérleti szerződés     |ALFA KAPOS Képző   |1.200,-Ft/óra   |2007.09.14-2|
+|terembérlet           |Központ Kft        |                |008.01.31   |
+|                      |Kaposvár           |                |            |
+|Bérleti szerződés     |PERFEKT            |700,-Ft/óra     |2007.09.01-2|
+|terembérlet           |Közgazdasági SZKI  |                |008.06.30   |
+|Bérleti szerződés     |OKTÁV Továbbképző  |1.200,-Ft/óra   |2007.09.01-2|
+|terembérlet           |Központ Esztergom  |                |008.05.31.  |
+|Bérleti szerződés     |CITY COLLEGE Üzleti|700,-Ft/óra     |2007.09.01-2|
+|terembérlet           |SZKI               |                |010.06.30   |
+|                      |Győr               |                |            |
+|Bérleti szerződés     |Farkasné Bári      |35.000,-Ft/hó   |2007.09.01- |
+|BÜFÉ                  |Erzsébet           |                |2008.06.15. |
+|                      |vállalkozó         |                |            |
+|Bérleti szerződés     |MULTIREKLÁM ZRT    |26.000,-Ft/db/év|2007.01.01-2|
+|Kerítés fala          |Budapest           |                |007.12.31   |
+|Bérleti szerződés     |PONT REKLÁM KFT    |47.000,-Ft/db/év|2007.01.01-2|
+|Kerítés fala          |Budapest           |                |007.12.31   |
+|Bérleti szerződés     |PROMIX RT          |2.000,-Ft/hó/pla|2005.12.09-h|
+|Belső falfelület      |Budapest           |kát             |atározatlan |
+|Bérleti szerződés     |GRIFF Humán        |900,-Ft/óra     |2007.08.01-2|
+|terembérlet           |Esélyegyenlőség    |                |012.08.01.  |
+|                      |SZKI               |                |            |
+
+
+
+
+
+Győr, 2007.  ...nov..........hó 8.....nap
+
+
+                                                      Németh
+Tibor...............
+
+                                  intézményvezető
+
+
+
