@@ -3,6 +3,9 @@ pages: $(foreach page, $(PAGES), raw/html/$(page)-oldal.html)
 raw/html/%-oldal.html: 
 	wget -O $@ "http://onkormanyzat.gyor.hu/cikklista/uvegzseb.html/$(notdir $(basename $@))"
 	touch $@
+documents: documents.txt
+	aria2c -x5 -j5 -d raw/doc -i $<
+	touch $@ 
 pages: pagelist.txt
 	aria2c -x5 -d raw/html -i $<
 	touch $@ 
